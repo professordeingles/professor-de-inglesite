@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e40af;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#bg)"/>
+  <path d="M60 140 L100 120 L140 140 L100 160 Z" fill="#dc2626"/>
+  <rect x="95" y="115" width="10" height="50" fill="#dc2626"/>
+  <path d="M60 140 L70 145 L70 155 L60 150 Z" fill="#ffffff"/>
+  <path d="M130 140 L140 145 L140 155 L130 150 Z" fill="#ffffff"/>
+  <rect x="70" y="145" width="60" height="3" fill="#ffffff"/>
+  <rect x="70" y="152" width="60" height="3" fill="#ffffff"/>
+  <circle cx="100" cy="147" r="8" fill="#1e40af"/>
+  <path d="M180 80 L240 100 L240 180 L180 160 Z" fill="#10b981"/>
+  <rect x="185" y="95" width="50" height="8" fill="#ffffff"/>
+  <rect x="185" y="110" width="50" height="8" fill="#ffffff"/>
+  <rect x="185" y="125" width="50" height="8" fill="#ffffff"/>
+  <path d="M60 200 L100 180 L180 180 L180 220 L60 220 Z" fill="#3b82f6"/>
+  <rect x="80" y="190" width="80" height="6" fill="#ffffff"/>
+  <rect x="80" y="202" width="80" height="6" fill="#ffffff"/>
+  <path d="M128 60 L180 40 L220 50 L200 70 L180 100 L160 90 L140 70 Z" fill="#60a5fa"/>
+  <ellipse cx="180" cy="65" rx="15" ry="8" fill="#dbeafe"/>
+  <path d="M165 70 L195 70 L200 85 L160 85 Z" fill="#93c5fd"/>
+</svg>
